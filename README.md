@@ -6,6 +6,12 @@ Welcome! This repository highlights my projects in computational modeling, quant
 ---
 ## Projects
 
+### Text-to-ASL Pipeline for Sign Language Generation
+*Jan 2026 - present*  
+- Currently reviewing literature for this project. Will update as I start building.
+
+---
+
 ### [VIX Futures & Volatility Term Structure Analysis](https://github.com/Nemonyte04/vix-futures-term_structure-analysis)
 *Dec 2025 – Jan 2026*  
 - Replicated Jablecki et al.’s volatility term-structure framework using updated VIX futures data (2014–2025 vs. original 2004–2015 period), and evaluated its behavior in recent market conditions.
