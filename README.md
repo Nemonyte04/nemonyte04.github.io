@@ -6,12 +6,6 @@ Welcome! This repository highlights my projects in computational modeling, quant
 ---
 ## Projects
 
-### Text-to-ASL Pipeline for Sign Language Generation
-*Jan 2026 - present*  
-- Currently reviewing literature for this project. Will update as I start building.
-
----
-
 ### [VIX Futures & Volatility Term Structure Analysis](https://github.com/Nemonyte04/vix-futures-term_structure-analysis)
 *Dec 2025 – Jan 2026*  
 - Replicated Jablecki et al.’s volatility term-structure framework using updated VIX futures data (2014–2025 vs. original 2004–2015 period), and evaluated its behavior in recent market conditions.
@@ -40,6 +34,14 @@ Welcome! This repository highlights my projects in computational modeling, quant
 ---
 
 ## Experience
+**Machine Learning & Software Engineering Intern** 
+Digital Transformation Research Corps at WashU | May 2026 - Present
+• Built an AI-powered research platform that enables journalists and scholars to analyze over a million political survey records
+through natural language queries and generate publication-ready statistical analyses and visualizations in under 20 seconds.
+• Developed the full-stack application (React, FastAPI, DuckDB and Supabase) integrating frontier model APIs along with a
+self-hosted LLM running on WashU’s high-performance computing (HPC) cluster for a dual cloud/on-premises deployment.
+• Collaborated with political scientists to engineer a statistical framework to automate survey methodology, implement and
+improve analytical guardrails, and design a schema-aware AI assistant to suggest better research avenues.
 
 **Computational Modeling & Semiconductor Engineering Research Assistant**  
 *Intel CAFE & Rajan Group, The Ohio State University | May 2025 – Jul 2025*  
