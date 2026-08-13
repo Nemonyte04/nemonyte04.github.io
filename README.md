@@ -34,13 +34,13 @@ Welcome! This repository highlights my projects in computational modeling, quant
 ---
 
 ## Experience
-**Machine Learning & Software Engineering Intern**\
-*Digital Transformation Research Corps at WashU | May 2026 - Present*\
-• Built an AI-powered research platform that enables journalists and scholars to analyze over a million political survey records
+**Machine Learning & Software Engineering Intern** \
+*Digital Transformation Research Corps at WashU | May 2026 - Present* \
+- Built an AI-powered research platform that enables journalists and scholars to analyze over a million political survey records
 through natural language queries and generate publication-ready statistical analyses and visualizations in under 20 seconds.
-• Developed the full-stack application (React, FastAPI, DuckDB and Supabase) integrating frontier model APIs along with a
+- Developed the full-stack application (React, FastAPI, DuckDB and Supabase) integrating frontier model APIs along with a
 self-hosted LLM running on WashU’s high-performance computing (HPC) cluster for a dual cloud/on-premises deployment.
-• Collaborated with political scientists to engineer a statistical framework to automate survey methodology, implement and
+- Collaborated with political scientists to engineer a statistical framework to automate survey methodology, implement and
 improve analytical guardrails, and design a schema-aware AI assistant to suggest better research avenues.
 
 **Computational Modeling & Semiconductor Engineering Research Assistant**  
